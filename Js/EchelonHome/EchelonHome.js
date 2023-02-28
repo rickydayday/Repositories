@@ -30,3 +30,5 @@ var displayHomepage = `
 
 
 `;
+
+echelon_home.innerHTML= displayHomepage;
